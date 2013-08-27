@@ -1,0 +1,206 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "ID": 2, "FERMATA": "GESSATE", "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.437574177351154, 45.546071531173567 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "ID": 4, "FERMATA": "ZARA", "N_ARCHI": 4 }, "geometry": { "type": "Point", "coordinates": [ 9.192716714170917, 45.492606292419417 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "ID": 5, "FERMATA": "S.DONATO", "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.256337816523839, 45.430158882006417 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "ID": 6, "FERMATA": "MACIACHINI", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.184918024008448, 45.497714320112138 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "ID": 8, "FERMATA": "MOLINO DORINO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.09334230029561, 45.505021983149248 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "ID": 10, "FERMATA": "BISCEGLIE", "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.112911998244128, 45.455312107615413 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "ID": 11, "FERMATA": "MARELLI", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.228295256252038, 45.524422767370545 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "ID": 12, "FERMATA": "SESTO FS", "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.238225563040357, 45.541592789510531 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "ID": 13, "FERMATA": "FAMAGOSTA", "N_ARCHI": 3 }, "geometry": { "type": "Point", "coordinates": [ 9.16711054555215, 45.437231614786612 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "ID": 14, "FERMATA": null, "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.182501027313615, 45.429934462069461 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "ID": 15, "FERMATA": "RHO FIERA MILANO", "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.087547628817507, 45.520518551207125 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "ID": 17, "FERMATA": "COLOGNO NORD", "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.290575821491785, 45.533798065337606 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "ID": 18, "FERMATA": null, "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.161098331301773, 45.53405443870578 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "ID": 19, "FERMATA": null, "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.143512187931586, 45.398376694510361 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "ID": 21, "FERMATA": "LORETO", "N_ARCHI": 4 }, "geometry": { "type": "Point", "coordinates": [ 9.215210295633543, 45.484584564670548 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "ID": 22, "FERMATA": "CASCINA ANTONIETTA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.419684982541961, 45.541268531449454 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "ID": 23, "FERMATA": "GORGONZOLA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.402365283511438, 45.53665576431198 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "ID": 24, "FERMATA": "VILLA POMPEA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.387062265046406, 45.528453547994317 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "ID": 25, "FERMATA": "BUSSERO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.376618195653093, 45.525507781075504 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "ID": 26, "FERMATA": "CASSINA DE' PECCHI", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.363121594311695, 45.52186403268945 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "ID": 27, "FERMATA": "VILLA FIORITA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.345971358951895, 45.52073979871799 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "ID": 28, "FERMATA": "CERNUSCO S.N.", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.331377705197495, 45.521069010183481 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "ID": 29, "FERMATA": "CASCINA BURRONA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.297835416365656, 45.517364355868949 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "ID": 30, "FERMATA": "VIMODRONE", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.28505564251846, 45.515455864108652 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "ID": 31, "FERMATA": "COLOGNO SUD", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.274661351062294, 45.520183655843582 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "ID": 32, "FERMATA": "COLOGNO CENTRO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.281766366991409, 45.526461651677806 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "ID": 33, "FERMATA": "GOBBA", "N_ARCHI": 3 }, "geometry": { "type": "Point", "coordinates": [ 9.260916186505758, 45.511049253092544 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "ID": 35, "FERMATA": "CRESCENZAGO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.247888349505079, 45.504953310214617 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "ID": 36, "FERMATA": "CIMIANO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.239538640400435, 45.498524505297112 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "ID": 37, "FERMATA": "UDINE", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.236978134132015, 45.491031471918177 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "ID": 38, "FERMATA": "LAMBRATE FS", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.235797438103674, 45.484542271163107 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "ID": 39, "FERMATA": "PIOLA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.224614309921273, 45.480630300872868 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "ID": 40, "FERMATA": "CAIAZZO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.209733108799425, 45.485331015641322 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "ID": 41, "FERMATA": "CENTRALE FS", "N_ARCHI": 4 }, "geometry": { "type": "Point", "coordinates": [ 9.202647996487675, 45.484426287791614 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "ID": 42, "FERMATA": "REPUBBLICA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.197222163181518, 45.478677808548817 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "ID": 43, "FERMATA": "TURATI", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.194813454809173, 45.474490376472694 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "ID": 44, "FERMATA": "MONTENAPOLEONE", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.192721818886559, 45.470026083454066 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "ID": 45, "FERMATA": "DUOMO", "N_ARCHI": 4 }, "geometry": { "type": "Point", "coordinates": [ 9.188533114739391, 45.464701929613902 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "ID": 47, "FERMATA": "MISSORI", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.188464002711086, 45.460823089523245 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "ID": 48, "FERMATA": "CROCETTA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.195797464186576, 45.456120538233762 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "ID": 49, "FERMATA": "BRENTA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.218813727552186, 45.442613546191005 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "ID": 50, "FERMATA": "CORVETTO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.22269274979981, 45.440756246197019 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "ID": 51, "FERMATA": "PORTO DI MARE", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.229704331381821, 45.437305621255831 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "ID": 52, "FERMATA": "ROGOREDO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.238246009174194, 45.433570332247811 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "ID": 53, "FERMATA": "LODI TIBB", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.210097542250356, 45.447377332133506 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "ID": 54, "FERMATA": "P.ta ROMANA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.202187759082387, 45.452185526128616 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "ID": 55, "FERMATA": "SONDRIO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.200653659428589, 45.489915918292084 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "ID": 56, "FERMATA": "GIOIA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.195341321935191, 45.484708922182129 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "ID": 57, "FERMATA": "GARIBALDI FS", "N_ARCHI": 3 }, "geometry": { "type": "Point", "coordinates": [ 9.188909608963249, 45.484227181398097 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "ID": 58, "FERMATA": "MOSCOVA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.184490511801931, 45.477654724092503 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "ID": 59, "FERMATA": "LANZA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.182333236812921, 45.47170230403956 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "ID": 60, "FERMATA": "CADORNA", "N_ARCHI": 4 }, "geometry": { "type": "Point", "coordinates": [ 9.176952521806514, 45.468148233741267 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "ID": 62, "FERMATA": "CONCILIAZIONE", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.166284488381413, 45.467551736331771 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "ID": 63, "FERMATA": "PAGANO", "N_ARCHI": 3 }, "geometry": { "type": "Point", "coordinates": [ 9.159878881572146, 45.468443344002928 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "ID": 64, "FERMATA": "WAGNER", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.155574315027128, 45.467943011180033 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "ID": 65, "FERMATA": "DE ANGELI", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.149255790805686, 45.466463058388214 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "ID": 66, "FERMATA": "GAMBARA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.143055264997729, 45.465011820254915 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "ID": 67, "FERMATA": "BANDE NERE", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.137618427661879, 45.462063051773072 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "ID": 68, "FERMATA": "PRIMATICCIO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.129557974865874, 45.45950402405942 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "ID": 69, "FERMATA": "INGANNI", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.121922261489074, 45.457505607192786 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "ID": 70, "FERMATA": "S.LEONARDO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.100459186766875, 45.501262830890248 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "ID": 71, "FERMATA": "BONOLA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.109332010787187, 45.498382011311222 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "ID": 72, "FERMATA": "URUGUAY", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.117995818320434, 45.494921520104263 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "ID": 73, "FERMATA": "LAMPUGNANO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.127090184094268, 45.488500780376704 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "ID": 74, "FERMATA": "QT8", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.135558452157378, 45.485903786626672 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "ID": 75, "FERMATA": "LOTTO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.143390124154051, 45.479536773614562 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "ID": 76, "FERMATA": "AMENDOLA-FIERA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.15048223309163, 45.474119433636098 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "ID": 77, "FERMATA": "BUONARROTI", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.154993607450095, 45.470626016617331 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "ID": 78, "FERMATA": "ABBIATEGRASSO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.178972926514122, 45.429959217283987 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "ID": 79, "FERMATA": "ASSAGO MILANOFIORI NORD", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.149921005103973, 45.409710138027215 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "ID": 80, "FERMATA": "ASSAGO MILANOFIORI FORUM", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.145311210279397, 45.40157685241153 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "ID": 81, "FERMATA": "ROMOLO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.167736605535001, 45.443678739856864 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "ID": 82, "FERMATA": "P.ta GENOVA FS", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.170044394246503, 45.452923927212773 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "ID": 83, "FERMATA": "S.AGOSTINO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.169974745564137, 45.458529438463955 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "ID": 84, "FERMATA": "S.AMBROGIO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.173266689742, 45.461501986820004 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "ID": 85, "FERMATA": "CORDUSIO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.18618176843129, 45.465517210691573 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "ID": 86, "FERMATA": "CAIROLI", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.182038878872238, 45.468373124945231 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "ID": 87, "FERMATA": "S.BABILA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.197488687542773, 45.46645554577222 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "ID": 88, "FERMATA": "LIMA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.210808606128294, 45.48017632482896 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "ID": 89, "FERMATA": "P.ta VENEZIA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.205978296974561, 45.475331818859587 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "ID": 90, "FERMATA": "PALESTRO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.201392333102804, 45.470868805522564 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "ID": 91, "FERMATA": "PASTEUR", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.21822345440963, 45.491050601614226 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "ID": 92, "FERMATA": "ROVERETO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.219427247571861, 45.495130710367739 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "ID": 93, "FERMATA": "TURRO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.22098851743983, 45.500367398464149 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "ID": 94, "FERMATA": "GORLA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.22291317672425, 45.506782546673961 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "ID": 95, "FERMATA": "PRECOTTO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.224606278025231, 45.512336519728009 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "ID": 96, "FERMATA": "VILLA S.G.", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.226253342923714, 45.517767031672754 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "ID": 97, "FERMATA": "SESTO RONDO'", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.231370446170947, 45.534193295156619 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "ID": 98, "FERMATA": "COMASINA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.161912383793178, 45.531499630006678 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "ID": 99, "FERMATA": "AFFORI NORD", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.16799734247442, 45.522322248543745 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "ID": 100, "FERMATA": "AFFORI CENTRO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.174423805407404, 45.512823948895999 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "ID": 101, "FERMATA": "DERGANO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.179723847883579, 45.505168318513029 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "ID": 102, "FERMATA": "PERO", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.08570886111416, 45.508900337536005 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "ID": 103, "FERMATA": "MARCHE", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.194618598697472, 45.495875666116397 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "ID": 104, "FERMATA": "ISTRIA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.197997816547943, 45.501770705407814 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "ID": 105, "FERMATA": "CA' GRANDA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.201010208649441, 45.507053151248115 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "ID": 106, "FERMATA": "BICOCCA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.205494596076081, 45.515034495908075 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "ID": 107, "FERMATA": "PONALE", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.209552956908512, 45.522254102462163 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "ID": 108, "FERMATA": "BIGNAMI", "N_ARCHI": 1 }, "geometry": { "type": "Point", "coordinates": [ 9.211973624875546, 45.52637694323225 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "ID": 109, "FERMATA": "ISOLA", "N_ARCHI": 2 }, "geometry": { "type": "Point", "coordinates": [ 9.191207346020565, 45.487033893267885 ] } }
+
+]
+}
