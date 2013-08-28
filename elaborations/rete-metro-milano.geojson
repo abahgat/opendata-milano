@@ -11,7 +11,7 @@
 ,
 { "type": "Feature", "id": 4, "properties": { "id": 8, "fermata": "MOLINO DORINO", "archi": 2, "marker-symbol": "m", "marker-color": "db4f3d", "linee": ["M1"] }, "geometry": { "type": "Point", "coordinates": [ 9.09334230029561, 45.505021983149248 ] } }
 ,
-{ "type": "Feature", "id": 5, "properties": { "id": 10, "fermata": "BISCEGLIE", "archi": 1, "marker-symbol": "m", "marker-color": "db4f3d", "linee": ["M1"] }, "geometry": { "type": "Point", "coordinates": [ 9.112911998244128, 45.455312107615413 ] } }
+{ "type": "Feature", "id": 5, "properties": { "id": 10, "fermata": "BISCEGLIE", "archi": 1, "marker-symbol": "b", "marker-color": "db4f3d", "linee": ["M1"] }, "geometry": { "type": "Point", "coordinates": [ 9.112911998244128, 45.455312107615413 ] } }
 ,
 { "type": "Feature", "id": 6, "properties": { "id": 11, "fermata": "MARELLI", "archi": 2, "marker-symbol": "m", "marker-color": "db4f3d", "linee": ["M1"] }, "geometry": { "type": "Point", "coordinates": [ 9.228295256252038, 45.524422767370545 ] } }
 ,
