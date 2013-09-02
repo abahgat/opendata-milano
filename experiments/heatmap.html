@@ -44,12 +44,13 @@
       }
 
       function drawHeatmap() {
-        if (++loadedFiles == dataFiles.length && heatmap && !heatmap.get('map')) {
+        if (loadedFiles == dataFiles.length && heatmap && !heatmap.get('map')) {
           heatmap.setMap(map);
         }
       }
 
       $(document).ajaxSuccess(function() {
+        loadedFiles += 1;
         drawHeatmap();
       });
       for (var i = dataFiles.length - 1; i >= 0; i--) {
