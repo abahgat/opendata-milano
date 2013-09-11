@@ -27,7 +27,7 @@
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=visualization"></script>
     <script>
-      var map, pointarray, heatmap;
+      var map, heatmap;
       var stops = [];
 
       var dataFiles = [
@@ -82,10 +82,8 @@
         map = new google.maps.Map(document.getElementById('map-canvas'),
             mapOptions);
 
-        var pointArray = new google.maps.MVCArray(stops);
-
         heatmap = new google.maps.visualization.HeatmapLayer({
-          data: pointArray,
+          data: stops,
           opacity: 0.5,
           radius: 12
         });
