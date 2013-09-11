@@ -45,6 +45,7 @@
 
       function drawHeatmap() {
         if (loadedFiles == dataFiles.length && heatmap && !heatmap.get('map')) {
+          heatmap.setData(stops);
           heatmap.setMap(map);
         }
       }
@@ -83,7 +84,6 @@
             mapOptions);
 
         heatmap = new google.maps.visualization.HeatmapLayer({
-          data: stops,
           opacity: 0.5,
           radius: 12
         });
