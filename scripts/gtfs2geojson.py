@@ -12,8 +12,15 @@ def convert():
       longitude = row['stop_lon']
       feature = geojson.Feature(id=stop_id,
                   							geometry=geojson.Point([latitude, longitude]),
-                  							properties={})
+                  							properties={'count': 0,
+                                            'name': name})
       features[stop_id] = feature
+  with open('stop_times.txt', 'r') as times_file:
+    reader = csv.DictReader(times_file)
+    for row in reader:
+      stop_id = row['stop_id']
+      features[stop_id].properties['count'] += 1
+
   collection = geojson.FeatureCollection(features=features.values())
   print geojson.dumps(collection)
 
