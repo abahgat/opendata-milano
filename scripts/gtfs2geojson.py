@@ -11,7 +11,7 @@ def convert():
       latitude = row['stop_lat']
       longitude = row['stop_lon']
       feature = geojson.Feature(id=stop_id,
-                  							geometry=geojson.Point([latitude, longitude]),
+                  							geometry=geojson.Point([longitude, latitude]),
                   							properties={'count': 0,
                                             'name': name})
       features[stop_id] = feature
